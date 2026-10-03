@@ -1,7 +1,7 @@
 # Setting Up Network Cabling for Workstations
 
 **Date:** 2026-09-07
-**Category:** Networking
+
 
 ## Issue
 New workstations required network cabling to be set up for connectivity.
