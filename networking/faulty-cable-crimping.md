@@ -1,7 +1,7 @@
 # Diagnosing and Repairing a Faulty Network Cable
 
 **Date:** 2026-09-11
-**Category:** Networking
+
 
 ## Issue
 A network cable was causing connectivity issues.
