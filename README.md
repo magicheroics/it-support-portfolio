@@ -15,8 +15,11 @@ I'm Eric, an IT student focused on networking and cybersecurity, currently worki
 
 ## Structure
 /networking - Cabling, switch issues, network troubleshooting
+
 /active-directory - Password resets and account management
+
 /hardware - Diagnostics and repairs (POST errors, PSU, CMOS, etc.)
+
 /support - Printers, equipment setup, general IT support tasks
 
 
