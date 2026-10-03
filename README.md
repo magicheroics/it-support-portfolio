@@ -4,7 +4,7 @@ A documented log of hands-on IT support, networking, and troubleshooting experie
 
 ## About
 
-I'm Eric, an IT student focused on networking and cybersecurity, currently working toward becoming a Network Engineer. This repository tracks real-world tasks and problems I've worked on during my industrial attachment (Sep – Dec 2026), along with the skills gained from each.
+I'm Eric, an IT student focused on networking and cybersecurity, currently working toward becoming a Network Engineer. This repository tracks real-world tasks and problems I've worked on during my industrial attachment at an educational institution in Kenya (Sep – Dec 2026), along with the skills gained from each.
 
 ## Skills Demonstrated
 
